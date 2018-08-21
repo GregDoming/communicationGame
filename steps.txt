@@ -2,4 +2,4 @@
 2.) git init
 3.) setup github repository
 4.) install dependencies: react, redux, mongoose, mongodb, 
-express, node, body parser, nodemon
+express, node, body parser, nodemon, webpack, lodash
